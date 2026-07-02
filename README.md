@@ -147,7 +147,7 @@ Features
 
 # 📊 Contribution Graph
 
-[![Sai Sindhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact)](https://github.com/YOUR_USERNAME)
+[![Sai Sindhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ArisettiSaiSindhu&theme=github-compact)](https://github.com/ArisettiSaiSindhu)
 
 ---
 
@@ -189,7 +189,7 @@ Features
 
 📧 Email: saisindhhu@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://linkedin.com/in/sai-sindhu-arisetti
 
 💻 GitHub: https://github.com/ArisettiSaiSindhu
 
