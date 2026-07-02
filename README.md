@@ -39,7 +39,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql" />
 </p>
 
 ### Frameworks & Libraries
@@ -63,7 +63,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -137,11 +137,11 @@ Features
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=ArisettiSaiSindhu&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArisettiSaiSindhu&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArisettiSaiSindhu&layout=compact&theme=tokyonight)
 
 ---
 
