@@ -143,6 +143,8 @@ Features
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArisettiSaiSindhu&layout=compact&theme=tokyonight)
 
+![Profile Views](https://komarev.com/ghpvc/?username=ArisettiSaiSindhu&color=blue)
+
 ---
 
 # 📊 Contribution Graph
